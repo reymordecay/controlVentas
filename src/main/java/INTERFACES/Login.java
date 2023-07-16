@@ -11,7 +11,7 @@ public class Login extends javax.swing.JFrame {
         this.setExtendedState(this.MAXIMIZED_BOTH);
     }
 
-    // HOLA HECTOR
+    // HOLA HECTOR XD
     
     /**
      * This method is called from within the constructor to initialize the form.
